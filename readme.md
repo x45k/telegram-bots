@@ -17,14 +17,19 @@ This repository is a port of [x45k/discord-bots](https://github.com/x45k/discord
     ```bash
     cd ./telegram-bots/facts/
     ```
+3. Change your token:
+    ```js
+    const token = 'your-token';
+    ```
+    (Replace 'your-token' with your telegram bot token)
 
-3. Install the dependencies:
+4. Install the dependencies:
     ```bash
     npm install node-telegram-bot-api axios
     ```
     (Keep in mind axios may not be needed, it depends on the chosen bot)
 
-4. Run the bot:
+5. Run the bot:
     ```bash
     node bot.js
     ```
