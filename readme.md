@@ -1,4 +1,4 @@
-This repository is a port of [x45k/discord-bots](https://github.com/x45k/discord-bots) for Telegram, as I wanted to try my hand at making Telegram bots. 
+This repository is a port of [x45k/discord-bots](https://github.com/x45k/discord-bots) for Telegram, as I wanted to try making Telegram bots. 
 
 ## Contributing
 
